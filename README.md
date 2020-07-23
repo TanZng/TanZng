@@ -16,9 +16,9 @@
   <img align="left" alt="Tan's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://3.bp.blogspot.com/-5VBn_3unLe8/WWbLaWjEgfI/AAAAAAAIv4Y/6S3lEZT8w94J-ftDn2D_GwIa445MgU1zQCLcBGAs/s1600/AS002830_00.gif" width="250px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="300px"/>
 
-### I am Tan <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+### I am Tan
 - An Enthusiast Learner, currently learning RoR.
 - A Computer Engineering Undergraduate Student. 
 
