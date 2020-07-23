@@ -22,6 +22,6 @@
 - An Enthusiast Learner, currently learning RoR.
 - A Computer Engineering Undergraduate Student. 
 
-[![TanZng's github stats](https://github-readme-stats.vercel.app/api?username=TanZng)](https://github.com/anuraghazra/github-readme-stats)
+[![TanZng's github stats](https://github-readme-stats.vercel.app/api?username=TanZng&show_icons=true&theme=tokyonight&repo=github-readme-stats&bg_color=0000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
  
