@@ -1,27 +1,43 @@
-## Hello World! <img src="https://buscalibros2019.files.wordpress.com/2019/01/adioes.gif" width="30px"></h2>
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp>Hello there. I'm <b><a href="https://tanx.dev">Tan</a></b>. <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
 
-<a href="https://twitter.com/tanx_dev">
-  <img align="left" " alt="Tan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/tania-r-zuniga/">
-  <img align="left" alt="Tan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/TanZng">
-  <img align="left" alt="Tan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.hackerrank.com/tanx_dev">
-  <img align="left" alt="Tan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://leetcode.com/tan_dev/">
-  <img align="left" alt="Tan's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
-</a>
-<br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="300px"/>
+</samp>
 
-### I am Tan
-- An Enthusiast Learner, currently learning RoR.
-- A Computer Engineering Undergraduate Student. 
+  <img src="assets/hollor_knight3.gif" width="200"/>
 
-[![TanZng's github stats](https://github-readme-stats.vercel.app/api?username=TanZng&show_icons=true&theme=tokyonight&repo=github-readme-stats&bg_color=0000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
- 
+
+<details align="center">
+
+<summary> <b> <samp> Ligth bonefire </samp></b></summary>
+<samp>
+ <b><h2 style="color: #fc6203">B O N E F I R E &nbsp; L I T !</h2> </b>
+
+<img src="assets/bonefire.gif" width="200"/>
+
+Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tania-r-zuniga/">
+  <img src="assets/linkedin.png" width="30px" alt="LinkedIn"></a>&nbsp; &nbsp;
+  <a href="https://twitter.com/tanx_dev">
+  <img src="assets/twitter.png" width="30px" alt="Twitter"></a>
+  &nbsp; &nbsp;
+  <a href="https://www.hackerrank.com/tanx_dev">
+  <img src="assets/hackerrank.png" width="30px" alt="site"></a>
+  &nbsp; &nbsp;
+  <a href="https://leetcode.com/tan_dev/">
+  <img src="assets/leetcode.png" width="30px" alt="site"></a>
+  &nbsp;
+  &nbsp;
+  <a href="https://tan.dev/estus-flask">
+  <img src="assets/estus_flask.png" width="23px" alt="site"></a>
+</p> 
+
+
+</samp>
+</details>
