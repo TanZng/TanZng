@@ -8,7 +8,7 @@ Software Engineer focus on...
 <details align="center">
 
 <summary> <b> <samp> tanx-stack </samp></b></summary>
-
+&nbsp;
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,ts,rails" />
 </p>
