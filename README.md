@@ -1,5 +1,5 @@
 
-<img align="left" alt="DevOps & DevEx Gopher" src="./assets/gophergif.gif" width="220px"/>
+<img align="left" alt="DevOps & DevEx Gopher" title="DevOps & DevEx Gopher" src="./assets/gophergif.gif" width="220px"/>
 
 <details align="left">
 <summary> <b> <samp> tanx-stack </samp></b></summary>
