@@ -1,43 +1,24 @@
+# Hello I'm Tan!
+Software Engineer focus on...
+
 <p align="center">
-  <br>
-  <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
-    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
-
-</samp>
-
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-
+  <img src="./assets/slowGopher.gif" width="175"/>
 </p>
-
 
 <details align="center">
 
-<summary> <b> <samp> Light bonfire </samp></b></summary>
-<samp>
- <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
-
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
-
-Current Project: <a href="https://github.com/TanZng/patrones-combinados">Design Pattern Combination :snake: :elephant: :coffee:.</a>
+<summary> <b> <samp> tanx-stack </samp></b></summary>
 
 <p align="center">
-<!--   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
-  &nbsp; 
-  &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/tanx_dev">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
-  &nbsp; 
-  &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCbBb1mcQ3nG-5B5Md5wJXzw">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
-  &nbsp;
-  &nbsp; -->
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
-</p> 
+  <img src="https://skillicons.dev/icons?i=python,go,ts,rails" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,linux" />
+</p>
 
+[DevOps](https://about.gitlab.com/topics/devops/) & [DevEx](https://microsoft.github.io/code-with-engineering-playbook/developer-experience)
 
-</samp>
 </details>
