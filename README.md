@@ -1,23 +1,19 @@
 
-<img align="right" alt="DevOps & DevEx Gopher" src="./assets/gophergif.gif" width="25%"/>
+<img align="left" alt="DevOps & DevEx Gopher" src="./assets/gophergif.gif" width="220px"/>
 
 # Hello I'm Tan!
-Software Engineer focus on...
+Software Engineer focus on [DevOps](https://about.gitlab.com/topics/devops/) & [DevEx](https://microsoft.github.io/code-with-engineering-playbook/developer-experience)
 
 <details align="left">
-
 <summary> <b> <samp> tanx-stack </samp></b></summary>
-&nbsp;
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,ts,rails" />
+  <img src="https://skillicons.dev/icons?i=python,go,ts,rails" width="100px" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker" />
+  <img src="https://skillicons.dev/icons?i=,kubernetes,docker," width="100px" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=,gcp,linux" />
+  <img src="https://skillicons.dev/icons?i=,gcp,linux," width="100px" />
 </p>
-
-[DevOps](https://about.gitlab.com/topics/devops/) & [DevEx](https://microsoft.github.io/code-with-engineering-playbook/developer-experience)
 
 </details>
