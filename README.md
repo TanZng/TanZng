@@ -2,7 +2,7 @@
 Software Engineer focus on...
 
 <p align="center">
-  <img src="./assets/slowGopher.gif" width="175"/>
+  <img src="./assets/gophergif.gif" width="175"/>
 </p>
 
 <details align="center">
