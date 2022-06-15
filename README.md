@@ -1,8 +1,7 @@
 
 <img align="left" alt="DevOps & DevEx Gopher" src="./assets/gophergif.gif" width="220px"/>
 
-# Hello I'm Tan!
-Software Engineer focus on [DevOps](https://about.gitlab.com/topics/devops/) & [DevEx](https://microsoft.github.io/code-with-engineering-playbook/developer-experience)
+## Hello I'm Tan! Software Engineer focus on [DevOps](https://about.gitlab.com/topics/devops/) & [DevEx](https://microsoft.github.io/code-with-engineering-playbook/developer-experience)
 
 <details align="left">
 <summary> <b> <samp> tanx-stack </samp></b></summary>
