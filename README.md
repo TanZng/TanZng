@@ -20,7 +20,3 @@
 Software Engineer focus on [DevOps](https://about.gitlab.com/topics/devops/) & [DevEx](https://microsoft.github.io/code-with-engineering-playbook/developer-experience)
 
 <br />
-<br />
-<br />
-<br />
-
