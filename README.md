@@ -1,24 +1,26 @@
+## SRE | DevOps Engineer
 
-<img align="left" alt="DevOps & DevEx Gopher" title="DevOps & DevEx Gopher" src="./assets/gophergif.gif" width="220px"/>
+💙 Kubernetes
+🩵 Golang
+💚 Python
+💛 AWS
+🧡 Grafana
+❤️ GCP
+🩷 Linux
+💜 Terraform
 
-<details align="left">
-<summary> <b> <samp> tanx-stack </samp></b></summary>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,ts,rails" width="30%" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=,kubernetes,docker," width="30%" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=,gcp,linux," width="30%" />
-</p>
-
+<details align="center">
+  <summary>ɴᴏᴡ ᴘʟᴀʏɪɴɢ...</summary>
+  <br>
+  <img align="left" width="200px" src="https://i.scdn.co/image/ab67616d0000b2731b96e645016c4d431842aa93" data-testid="cover-art-image">
+  <br>
+  <pre>
+                ၊၊||၊|။||||။‌‌‌‌‌၊|
+    » Vois sur ton chemin - Techno Mix «
+  0:69 ━━━━━━━━━●───────────────────── 4:20
+            ⇄   ◃◃   ⅠⅠ   ▹▹   ↻
+             VOL: ▁▂▃▄▅▆▇ 100%
+  </pre>
+  <br>
 </details>
 
-# Hello I'm Tan! 
-
-Software Engineer
-
-[DevOps](https://about.gitlab.com/topics/devops/) & [DevEx](https://microsoft.github.io/code-with-engineering-playbook/developer-experience)
-
-<br />
